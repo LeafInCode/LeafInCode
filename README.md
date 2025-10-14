@@ -1,178 +1,95 @@
-# 👋 Hello, I'm 叶中强 (Leaf)
-
-**Location**: 北京
-
-**Email**: [18839136833@163.com](mailto:18839136833@163.com)
-
-**Blog**: [www.cnblogs.com/yezigege](https://www.cnblogs.com/yezigege)
-
-**GitHub**: [@LeafInCode](https://github.com/LeafInCode)
-
-
-
-***
-
-## 🛠️ Technical Skills
-
-### Backend Development
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-
-
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-
-### Cloud Native & DevOps
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-
-
-
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm)
-
-
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge\&logo=gitlab)
-
-### Data Storage & Databases
-
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-
-
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch)
-
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### AI & Machine Learning
-
-
-
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
-
-
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-
-
-
-![Chroma](https://img.shields.io/badge/Chroma-7C3AED?style=for-the-badge)
-
-
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
-### Monitoring & Observability
-
-
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus)
-
-
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-
-
-
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge)
-
-***
-
-## 🎓 Education
-
-### 河南理工大学
-
-**软件工程** | 本科 | 2015.09 - 2019.06
-
-GPA 前 10%
-
-
-
-***
-
-## 📊 GitHub Stats
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeafInCode\&show_icons=true\&theme=dark\&count_private=true)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafInCode\&layout=compact\&theme=dark)
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeafInCode\&theme=dark)
-
-
-
-
-
-
-
-***
-
-## 📝 About Me
-
-I'm a passionate Python backend engineer with over 6 years of experience in enterprise-level development.
-
-My expertise lies in cloud-native architecture, high-concurrency systems, and AI application development.
-
-**Core Competencies**:
-
-
-
-* 🚀 **High Concurrency Systems**: Design and optimization of systems handling 10k+ QPS
-
-* ☁️ **Cloud Native Architecture**: Docker, Kubernetes, microservices design patterns
-
-* 🤖 **AI Engineering**: RAG systems, large language models, vector databases
-
-* 📊 **Monitoring & Observability**: Prometheus, Grafana, ELK stack implementation
-
-* 💡 **Problem Solving**: Strong analytical skills and solution-oriented mindset
-
-**Personal Projects**:
-
-
-
-* Developing enterprise-grade RAG knowledge base systems
-
-* Exploring AI application development with LangChain and Chroma
-
-* Building cloud-native microservices architecture
-
-I'm always eager to learn new technologies and take on challenging projects.
-
-Feel free to reach out if you have any questions or collaboration opportunities!
-
-
-
-***
-
-**Last Updated**: October 2025
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ye+Zhongqiang+%F0%9F%91%8B;Python+Backend+Engineer+(Cloud-Native+%2B+AI);Loves+Coding%2C+Building%2C+and+Learning!" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/LeafInCode"><img src="https://img.shields.io/github/followers/LeafInCode?style=social" /></a>
+  <a href="https://www.cnblogs.com/yezigege"><img src="https://img.shields.io/badge/Blog-yezigege-blue?logo=blogger" /></a>
+  <a href="mailto:18839136833@163.com"><img src="https://img.shields.io/badge/Email-18839136833%40163.com-orange?logo=gmail" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 **Python高级后端工程师（6年+经验）**
+- 🧠 领域：云原生架构 · 高并发系统 · AI 工程化（RAG）
+- ⚙️ 擅长：系统设计、性能优化、监控可观测性重构
+- 📍 坐标：北京 | 热爱开源、分享与构建  
+- 💬 座右铭：「无冥冥之志者，无昭昭之明；无惛惛之事者，无赫赫之功。」
+
+---
+
+### 🧩 Tech Stack
+
+#### 🚀 Languages & Frameworks  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tornado-46a2f1?logo=tornado&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+</p>
+
+#### ☁️ Cloud Native  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+</p>
+
+#### 🧠 AI & Data  
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search-green" />
+  <img src="https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chroma-2F9D27?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" />
+</p>
+
+#### 🛠️ Others  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LeafInCode&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeafInCode&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeafInCode&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [18839136833@163.com](mailto:18839136833@163.com)  
+- 🌐 Blog: [https://www.cnblogs.com/yezigege](https://www.cnblogs.com/yezigege)  
+- 🐙 GitHub: [https://github.com/LeafInCode](https://github.com/LeafInCode)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeafInCode&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+---
+
+> 💬 *“I build backend systems that scale — and AI systems that think.”*  
+> 🌱 *Always learning. Always building.*
